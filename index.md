@@ -71,4 +71,5 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | お名前      | 場所    | SNS | あなたにとってIoTとは？ |
 |:------------|:------|:---------:|:------|
 | あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
+| Natsumi HORI  | 大阪 | [![facebook](img/facebook.png)](https://facebook.com/HN0722/) [![twitter](img/twitter.png)](https://twitter.com/_handle_name) [![github](img/github.png)](https://github.com/horinat)   | プログラミング、<br>できるようになりたい！ |
 
